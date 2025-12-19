@@ -1,15 +1,18 @@
-<div style="background: linear-gradient(90deg, #FF6D00, #FF3CAC); padding: 20px; border-radius: 10px; margin: 20px 0;"> <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=25&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&lines=IT+Support+%26+Network+Technician;Data+Analyst"/>
+<div style="background: linear-gradient(90deg, #FF6D00, #FF3CAC); padding: 20px; border-radius: 10px; margin: 20px 0;"> <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=25&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&lines=Data+Analyst;IT+Support+%26+Network+Technician"/>
 
 # 👋 Hola, soy Pablo
 
-🎓 Técnico en **Sistemas Microinformáticos y Redes**  
-📊 **Data Analyst** | 💻 Sistemas | 🔐 Seguridad Informática  
+📊 **Data Analyst**
+🎓 Técnico en **Sistemas Microinformáticos y Redes** | 💻 Sistemas | 🔐 Seguridad Informática
+   
 
 ---
 
 ## 🚀 Sobre mí
-Soy un profesional con formación técnica en sistemas y redes, con especial interés en la **administración de sistemas**, la **seguridad informática** y el **análisis de datos**.  
-Tengo experiencia tanto en **infraestructura IT** como en **tratamiento y análisis de datos**, combinando hardware, redes y software.
+Data Analyst con una base sólida en **sistemas informáticos y redes**.  
+Mi perfil combina el **análisis, limpieza y visualización de datos** con conocimientos técnicos en infraestructura IT.
+
+Estoy orientado a desarrollarme profesionalmente como **Data Analyst**, sin perder el valor añadido que aporta mi formación en **sistemas, redes y seguridad informática**.
 
 ---
 
@@ -22,9 +25,11 @@ Tengo experiencia tanto en **infraestructura IT** como en **tratamiento y análi
 ---
 
 ## 📊 Datos e Inteligencia Artificial
-- 📈 Curso de **Data Analyst (600h)**
-- 🤖 Inteligencia Artificial y Big Data
 - 🧠 Análisis, limpieza y visualización de datos
+- 🔍 Análisis exploratorio de datos (EDA)
+- 📊 Dashboards y reporting (Excel / Power BI)
+- 🤖 Introducción a Inteligencia Artificial y Big Data
+
 
 ---
 
@@ -55,7 +60,7 @@ Tengo experiencia tanto en **infraestructura IT** como en **tratamiento y análi
 ---
 
 ## 🎯 Objetivo Profesional
-Seguir creciendo como profesional IT, combinando **sistemas, seguridad y análisis de datos**, y participar en proyectos donde la tecnología aporte valor real.
+Desarrollarme profesionalmente como **Data Analyst**, participando en proyectos basados en datos que aporten valor real al negocio, aprovechando mi formación técnica en **sistemas y redes** como ventaja diferencial.
 
 ---
 
