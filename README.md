@@ -7,6 +7,7 @@
 🎓 Técnico en **Sistemas Microinformáticos y Redes** | 💻 Sistemas | 🔐 Seguridad Informática
 
 [<img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />](https://pablorodmu.github.io/)
+[<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:prm261292@gmail.com)
    
 
 ---
