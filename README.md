@@ -4,6 +4,8 @@
 
 📊 **Data Analyst**
 🎓 Técnico en **Sistemas Microinformáticos y Redes** | 💻 Sistemas | 🔐 Seguridad Informática
+
+[<img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />](https://pablorodmu.github.io/)
    
 
 ---
