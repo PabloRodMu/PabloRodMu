@@ -48,6 +48,32 @@ Estoy orientado a desarrollarme profesionalmente como **Data Analyst**, sin perd
 
 ---
 <div align="center">
+
+<h1>🧑‍💻 Lenguajes de Programación</h1>
+
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r" />
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql" />
+
+</div>
+<div align="center">
+
+<h1>🛠️ Herramientas y Software</h1>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+</div>
+
+
+
+<div align="center">
 <h1>🧑‍💻 Lenguajes de Programación</h1>
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
