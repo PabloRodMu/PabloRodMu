@@ -1,3 +1,7 @@
+<p align="center">
+  <video src="assets/night_city_rain_optimized.mp4" autoplay loop muted width="700"></video>
+</p>
+
 <div align="center">
 <div style="background: linear-gradient(90deg, #FF6D00, #FF3CAC); padding: 20px; border-radius: 10px; margin: 20px 0;"> <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=40&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=900&lines=Data+Analyst;IT+Support+%26+Network+Technician"/>
 
