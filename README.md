@@ -47,24 +47,24 @@ Estoy orientado a desarrollarme profesionalmente como **Data Analyst**, sin perd
 - 📡 Internet of Things (IoT)
 
 ---
-
-## 🧑‍💻 Lenguajes de Programación
+<div align="center">
+<h1>🧑‍💻 Lenguajes de Programación</h1>
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)
-
+</div>
 ---
-
-## 🛠️ Herramientas y Software
+<div align="center">
+<h1>🛠️ Herramientas y Software</h1>
 - ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
+</div>
 ---
 
 ## 🎯 Objetivo Profesional
