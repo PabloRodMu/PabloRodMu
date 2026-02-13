@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="assets/city_rain_refined.gif" width="600" />
+  <img src="assets/city_rain_refined.gif" width="900" />
 </p>
 
-<p align="center">
-  <video src="https://github.com/PabloRodMu/PabloRodMu/blob/main/assets/night_city_rain_optimized.mp4" autoplay loop muted width="700"></video>
-</p>
 
 <div align="center">
 <div style="background: linear-gradient(90deg, #FF6D00, #FF3CAC); padding: 20px; border-radius: 10px; margin: 20px 0;"> <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=40&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=900&lines=Data+Analyst;IT+Support+%26+Network+Technician"/>
@@ -37,11 +34,12 @@ Estoy orientado a desarrollarme profesionalmente como **Data Analyst**, sin perd
 ---
 
 ## 📊 Datos e Inteligencia Artificial
-- 🧠 Análisis, limpieza y visualización de datos
-- 🔍 Análisis exploratorio de datos (EDA)
-- 📊 Dashboards y reporting (Excel / Power BI)
-- 🤖 Introducción a Inteligencia Artificial y Big Data
 
+- 🔎 Análisis, limpieza y visualización de datos  
+- 📈 Análisis Exploratorio de Datos (EDA)  
+- 📊 Desarrollo de dashboards y reporting (Excel / Power BI)  
+- 🤖 Fundamentos de Inteligencia Artificial y Big Data  
+- 🧠 Machine Learning y modelos predictivos
 
 ---
 
