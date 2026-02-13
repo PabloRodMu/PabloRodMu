@@ -3,7 +3,8 @@
 </p>
 
 <div align="center">
-## 👋 Hola, soy Pablo
+
+<h1>👋 Hola, soy Pablo</h1>
 
 📊 **Data Analyst**
 🎓 Técnico en **Sistemas Microinformáticos y Redes** | 💻 Sistemas | 🔐 Seguridad Informática
