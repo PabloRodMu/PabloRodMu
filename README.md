@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="assets/night_city_rain_optimized.mp4" autoplay loop muted width="700"></video>
+  <video src="https://github.com/PabloRodMu/PabloRodMu/blob/main/assets/night_city_rain_optimized.mp4" autoplay loop muted width="700"></video>
 </p>
 
 <div align="center">
