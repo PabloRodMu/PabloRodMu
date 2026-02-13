@@ -51,6 +51,7 @@ Estoy orientado a desarrollarme profesionalmente como **Data Analyst**, sin perd
 
 <h1>🧑‍💻 Lenguajes de Programación</h1>
 
+
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r" />
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
@@ -62,6 +63,7 @@ Estoy orientado a desarrollarme profesionalmente como **Data Analyst**, sin perd
 
 <h1>🛠️ Herramientas y Software</h1>
 
+
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -71,6 +73,7 @@ Estoy orientado a desarrollarme profesionalmente como **Data Analyst**, sin perd
 
 </div>
 
+
 ---
 
 ## 🎯 Objetivo Profesional
@@ -79,6 +82,7 @@ Desarrollarme profesionalmente como **Data Analyst**, participando en proyectos 
 ---
 
 📫 *Siempre abierto a aprender y colaborar en nuevos proyectos*
+
 
 <div align="center">
 <div style="background: linear-gradient(90deg, #FF6D00, #FF3CAC); padding: 20px; border-radius: 10px; margin: 20px 0;"> <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=40&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=900&lines=Data+Analyst;IT+Support+%26+Network+Technician"/>
