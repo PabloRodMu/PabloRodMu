@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/city_rain_refined.gif" width="900" height="300" />
-</p>
+
 
 <div align="center">
 
