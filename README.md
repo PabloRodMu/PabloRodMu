@@ -56,8 +56,10 @@ Estoy orientado a desarrollarme profesionalmente como **Data Analyst**, sin perd
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r" />
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+
 
 </div>
 <div align="center">
@@ -71,6 +73,22 @@ Estoy orientado a desarrollarme profesionalmente como **Data Analyst**, sin perd
 <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Pentaho-0C1E2C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+
+
 
 </div>
 
